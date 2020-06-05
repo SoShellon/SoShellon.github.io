@@ -21,7 +21,7 @@
 title: Keep Calm and Code On
 email: lxl.shellon@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Recored everday's insights!
+  Recording the insights!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
@@ -29,6 +29,7 @@ linkedin_username: Shellon
 github_username:  SoShellon
 
 # Build settings
+# theme: jekyll-theme-minimal
 theme: minima
 plugins:
   - jekyll-feed
