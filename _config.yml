@@ -43,8 +43,11 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 google_analytics: UA-168779092-1
+
+url: blog.soshellon.com
 disqus:
   shortname: soshellon
+
 exclude:
   - draft/
 #   - .sass-cache/
